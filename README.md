@@ -5,6 +5,11 @@ Welcome to the official code repository for Ranked Entropy Minimization for Cont
 Instructions will be added soon.
 This is an early access release, we are currently refactoring the code and verifying its reproducibility.
 
+```bash
+cd imagenet
+CUDA_VISIBLE_DEVICES=0 python imagenetc.py --cfg cfgs/vit/rem.yaml --data_dir <your_data_path>
+```
+
 ## Acknowledgement 
 + CoTTA [official](https://github.com/qinenergy/cotta)
 + ViDA [official](https://github.com/Yangsenqiao/vida)
