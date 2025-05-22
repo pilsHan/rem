@@ -3,6 +3,7 @@ Welcome to the official code repository for Ranked Entropy Minimization for Cont
 
 ## Instructions
 Instructions will be added soon.
+This is an early access release, we are currently refactoring the code and verifying its reproducibility.
 
 ## Acknowledgement 
 + CoTTA [official](https://github.com/qinenergy/cotta)
