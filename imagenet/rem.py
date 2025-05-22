@@ -154,7 +154,7 @@ def collect_params(model):
            for np, p in m.named_parameters():
                if np in ['weight', 'bias'] and p.requires_grad:
                    params.append(p)
-                   print(nm, np)
+                   #print(nm, np)
 
     return params
 
