@@ -1,4 +1,8 @@
 # Ranked Entropy Minimization for Continual Test-Time Adaptation
+<div style="text-align: center;">
+  <a href="https://arxiv.org/abs/2505.16441"><img src="https://img.shields.io/badge/arXiv-2504.05741-b31b1b.svg" alt="arXiv"></a>
+</div>
+
 Welcome to the official code repository for Ranked Entropy Minimization for Continual Test-Time Adaptation (ICML 2025)
 
 ## Instructions
