@@ -13,6 +13,7 @@ CUDA_VISIBLE_DEVICES=0 python imagenetc.py --cfg cfgs/vit/rem.yaml --data_dir <y
 ## Acknowledgement 
 + CoTTA [official](https://github.com/qinenergy/cotta)
 + ViDA [official](https://github.com/Yangsenqiao/vida)
-+ Continual-MAE [official](https://github.com/RanXu2000/continual-mae) 
++ Continual-MAE [official](https://github.com/RanXu2000/continual-mae)
++ MaskedKD [official](https://github.com/effl-lab/MaskedKD)
 + KATANA [official](https://github.com/giladcohen/KATANA) 
 + Robustbench [official](https://github.com/RobustBench/robustbench) 
